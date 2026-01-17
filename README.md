@@ -60,6 +60,23 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ## Tools & Env
+
+## Anime
+### ✅ Completed / Mostly Completed
+![Attack on Titan](https://img.shields.io/badge/Attack%20on%20Titan-Completed-2E7D32?style=for-the-badge)
+![Evangelion](https://img.shields.io/badge/Evangelion-Almost%20Finished-2E7D32?style=for-the-badge)
+![SpongeBob](https://img.shields.io/badge/SpongeBob%20SquarePants-Watched-2E7D32?style=for-the-badge)
+![Your Lie in April](https://img.shields.io/badge/Your%20Lie%20in%20April-Watched-2E7D32?style=for-the-badge)
+![Chainsaw Man Movie](https://img.shields.io/badge/Chainsaw%20Man-Movie%20Watched-2E7D32?style=for-the-badge)
+
+### ▶️ Watching / In Progress
+![One Piece](https://img.shields.io/badge/One%20Piece-Ep%20100%2B-1565C0?style=for-the-badge)
+
+### ⏸️ Dropped
+![Jujutsu Kaisen](https://img.shields.io/badge/Jujutsu%20Kaisen-Dropped%20%28Ep%2010%2B%2C%20Spoiled%29-616161?style=for-the-badge)
+![Steins;Gate](https://img.shields.io/badge/Steins%3BGate-Dropped%20%28Ep%201%29-616161?style=for-the-badge)
+![Re:ZERO](https://img.shields.io/badge/Re%3AZERO-Dropped%20%28S2%29-616161?style=for-the-badge)
+![Demon Slayer](https://img.shields.io/badge/Demon%20Slayer-S1%20Watched%20%28Paused%29-616161?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
