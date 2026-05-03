@@ -1,20 +1,3 @@
-## Hi I'm Subin👋
-
-
-## Awards & Achievements
-- 🏆 **2020 · 메이커스페이스 경진대회** — *색 인식 장치 + 연동 App* — **우수상**
-- 🏆 **2024 · MATLAB** — *자율주행 악천후 개선* — **총장상**
-- 🏅 **2025 · 창의력종합설계** — *뇌성마비 환자를 위한 보행 보조 장치* — **장려상**
-- 🚗 **2025 - 만도 자율주행 대회** — *팀장으로 참가*  — **장려상**
-- 🚗 **2025 - 자율주행 AI 챌린지** — 
-- 🛰️ **2025 - 일사량 추정 경진대회** 
-- 🤖 **2025 - SK AI 매직 대회**  
-
-
-## BootCamp
-- 🎓 **한화에어로스페이스 스마트 데이터 사이언스 & AI 부트캠프
-
-
 ## Extracurricular / Certificates
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Digital Twin](https://img.shields.io/badge/Digital%20Twin-455A64?style=for-the-badge)
